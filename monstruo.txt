@@ -1,4 +1,5 @@
 Cabeza Normal
 Cabeza con casco de acero
 ... con ojos de rayo laser
+Torso muy grande
 
